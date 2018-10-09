@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Our Projekt", "Our Projekt\Our Projekt.csproj", "{EF904B6A-F190-4F55-8981-98BB85AEC63E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logik", "Logik\Logik.csproj", "{521B41FA-79A3-4BA5-9B54-EA42411C694F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{D09FBD8E-10C6-4CB5-9246-590B7FD1B357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF904B6A-F190-4F55-8981-98BB85AEC63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF904B6A-F190-4F55-8981-98BB85AEC63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF904B6A-F190-4F55-8981-98BB85AEC63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF904B6A-F190-4F55-8981-98BB85AEC63E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{521B41FA-79A3-4BA5-9B54-EA42411C694F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521B41FA-79A3-4BA5-9B54-EA42411C694F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521B41FA-79A3-4BA5-9B54-EA42411C694F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521B41FA-79A3-4BA5-9B54-EA42411C694F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D09FBD8E-10C6-4CB5-9246-590B7FD1B357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09FBD8E-10C6-4CB5-9246-590B7FD1B357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09FBD8E-10C6-4CB5-9246-590B7FD1B357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09FBD8E-10C6-4CB5-9246-590B7FD1B357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
